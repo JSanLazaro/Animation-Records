@@ -4,6 +4,7 @@
 @import './formulario.css';
 @import './galery.css';
 @import './product.css';
+@import './header.css';
 #main{
     display: flex;
     flex-direction: row;
