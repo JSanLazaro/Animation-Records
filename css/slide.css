@@ -1,6 +1,39 @@
+/* Cabecera de la página */
+h1 {
+  text-align: center;
+}
+
+#navegador ul{
+  list-style-type: none;
+  text-align:  right;
+}
+
+#navegador li{
+  display: inline;
+  text-align:right;
+  margin: 0px 0px 0px 0px;
+}
+#navegador li a {
+  padding: 210px 20px 30px 173px;
+  color: #0a0c0f;
+  display: inline;
+  background-color: #4b7ad8;
+  border: 1px solid #3c3b3b;
+  text-decoration: none;
+}
+#navegador li a:hover{
+  background-color: #4335de;
+  color: #0a0c0f;
+}
+
+p{
+  text-align: center;
+  font-size: 19px;
+
 * {
     box-sizing: border-box
 }
+
 .image-slideshow {
     /* border: 5px solid blue; */
   max-width: 1000px;
