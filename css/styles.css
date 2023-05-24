@@ -2,6 +2,7 @@
 @import './categories.css';
 @import './slide.css';
 @import './formulario.css';
+@import './galery.css';
 #main{
     display: flex;
     flex-direction: row;
