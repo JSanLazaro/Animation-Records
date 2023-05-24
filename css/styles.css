@@ -3,6 +3,7 @@
 @import './slide.css';
 @import './formulario.css';
 @import './galery.css';
+@import './product.css';
 #main{
     display: flex;
     flex-direction: row;
