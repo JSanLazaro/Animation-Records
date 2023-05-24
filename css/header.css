@@ -1,0 +1,20 @@
+.menu {
+display: flex;
+}
+.logo{
+    width: 250px;
+}
+.navegador ul{
+    display: flex;
+}
+.navegador ul li{
+    padding: 20px 70px 110px 80px;
+    background-color: #2763cb;
+    font:black;
+    border: 5px solid #9f9f9f;
+    text-decoration: none;
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+
+}

@@ -8,9 +8,14 @@ h1 {
 p{
   text-align: center;
   font-size: 19px;
-
+}
 * {
     box-sizing: border-box
+}
+.pie {
+  background-color: #2763cb;
+  font:black;
+  text-align: center;
 }
 
 .image-slideshow {
