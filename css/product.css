@@ -1,0 +1,13 @@
+
+.detalle-title{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+.foto{
+    max-width: 33%;
+    overflow: hidden;
+}
+.detalle{
+    max-width: 33%;
+}
